@@ -1,3 +1,4 @@
+![Header](https://github.com/DJ-MrJay/DJ-MrJay/blob/main/Images/code-video.gif)<br><br>
 ### Hi there. I'm Jonah!
 ## Designer. Developer.
 
