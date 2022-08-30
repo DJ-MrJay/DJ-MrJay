@@ -1,7 +1,7 @@
 ### Hi there. I'm Jonah!
 ## Designer. Developer.
 
-I'm a full-stack web developer, graphic designer, music & video editor. 
+I'm a full-stack web developer, graphic designer, music & video editor.<br> 
 Proficiency: JavaScript, HTML/CSS, Bootstrap. 
 Currently looking for new opportunities.
 
