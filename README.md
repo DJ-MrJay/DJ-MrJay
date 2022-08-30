@@ -15,7 +15,11 @@ Currently looking for new opportunities.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DJ-MrJay&theme=Javascript&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=DD2727)](https://git.io/streak-stats)
 
 ## Works
-- [Phil Logistics](http://phil-logistics.co.ke)
-- [Skylax Safaris](https://www.skylaxsafaris.com)
-- [Fusion 4](https://fusion4consultants.com)
-- [Homegrown Millers](https://homegrownmillers.co.ke)
+[Phil Logistics](https://phil-logistics.co.ke)
+![Phil Logistics](./images/screenshot-phil.jpg)
+[Skylax Safaris](https://www.skylaxsafaris.com)
+![Skylax Safaris](./images/screenshot-skylax.jpg)
+[Fusion 4 Consultants](http://fusion4consultants.com)
+![Fusion 4 Consultants](./images/screenshot-fusion.jpg)
+[Homegrown Millers](https://homegrownmillers.co.ke/)
+![Homegrown Millers](./images/screenshot-homegrown.jpg)
