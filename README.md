@@ -2,9 +2,9 @@
 ### Hi there. I'm Jonah!
 ## Designer. Developer.
 
-I'm a full-stack web developer, graphic designer, music & video editor.<br> 
-Proficiency: JavaScript, HTML/CSS, Bootstrap, PHP, MySQL.<br> 
-Currently looking for new opportunities.
+<p>I am a versatile professional skilled in full-stack web development, graphic design, and music & video editing.<p/>
+<p>Expertise: My proficiency spans across a wide range of technologies including but not limited to JavaScript, HTML/CSS, Bootstrap, React, Redux, Ruby on Rails, PostgreSQL, and MySQL.</p>
+<p>Exploring New Horizons: Currently, I am actively seeking fresh opportunities to contribute my skills and creativity.</p>
 
 ## Tech Stacks:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
