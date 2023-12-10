@@ -14,8 +14,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DJ-MrJay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-MrJay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ## Works
 |  |  |
 |---|---|
 | [![Phil Logistics](https://github.com/DJ-MrJay/DJ-MrJay/blob/main/Images/screenshot-phil.jpg)](https://phil-logistics.co.ke) | [![Skylax Safaris](https://github.com/DJ-MrJay/DJ-MrJay/blob/main/Images/screenshot-skylax.jpg)](https://www.skylaxsafaris.com) |
 | [![Fusion 4 Consultants](https://github.com/DJ-MrJay/DJ-MrJay/blob/main/Images/screenshot-fusion.jpg)](http://fusion4consultants.com) | [![Homegrown Millers](https://github.com/DJ-MrJay/DJ-MrJay/blob/main/Images/screenshot-homegrown.jpg)](https://homegrownmillers.co.ke/) |
+-->
