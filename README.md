@@ -1,6 +1,6 @@
 ![Header](https://github.com/DJ-MrJay/DJ-MrJay/blob/main/Images/banner.gif)<br><br>
 ### Hi there. I'm Jonah!
-## Designer. Developer.
+## Developer. Designer.
 
 <p>I am a versatile professional mainly skilled in full-stack web development, and graphic design. I'm also a hobbyist music & video producer.<p/>
 <p>Expertise: My proficiency spans across a wide range of technologies including but not limited to JavaScript, HTML/CSS, Bootstrap, React, Redux, Ruby on Rails, PostgreSQL, and MySQL.</p>
