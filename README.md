@@ -2,7 +2,7 @@
 ### Hi there. I'm Jonah!
 ## Designer. Developer.
 
-<p>I am a versatile professional skilled in full-stack web development, graphic design, and music & video editing.<p/>
+<p>I am a versatile professional mainly skilled in full-stack web development, and graphic design. I'm also a hobbyist music & video producer.<p/>
 <p>Expertise: My proficiency spans across a wide range of technologies including but not limited to JavaScript, HTML/CSS, Bootstrap, React, Redux, Ruby on Rails, PostgreSQL, and MySQL.</p>
 <p>Exploring New Horizons: Currently, I am actively seeking fresh opportunities to contribute my skills and creativity.</p>
 
